@@ -22,4 +22,6 @@ Testing de proyecto asignado
 
 En cada entrega se realiza un informe académico que debe dar evidencia de las actividades realizadas y explicar la aplicación de buenas prácticas. Incluir en el informe una reflexión sobre las técnicas de ingeniería de software y los aprendizajes del proyecto.
 
-Trabajo individual: detallar las actividades realizadas por cada integrante del equipo, en el informe académico y mediante commits en el repositorio. Cada integrante debe realizar actividades en todas las áreas indicadas en esta letra.
+Trabajo individual. En el informe se deben detallar las actividades realizadas por cada integrante del equipo: fecha, actividad, responsable, esfuerzo en horas. Cada integrante del equipo debe realizar actividades en todas las áreas indicadas en la rúbrica de cada entrega.
+
+Defensa oral. Se seleccionarán equipos para realizar una defensa del proyecto. Se debe realizar una presentación oral de 10 minutos que presente las principales técnicas aplicadas y aprendizajes. Se realizarán preguntas individuales de profundización y autoría.
